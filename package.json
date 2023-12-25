@@ -17,7 +17,7 @@
     "cross-env": "^7.0.2",
     "laravel-mix": "^6.0",
     "postcss": "^8.1.14",
-    "qs": "^6.9.6",
+    "qs": "^6.9.7",
     "tailwindcss": "^2.0",
     "vue": "^2.6.12",
     "vue-loader": "^15.9.5",
