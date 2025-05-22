@@ -1,6 +1,6 @@
 [![Latest Version](https://img.shields.io/packagist/v/intervention/image.svg)](https://packagist.org/packages/tachii/artisan-gui)
 
-> Updated original artisan-gui package to work with Laravel 10 & PHP8.3
+> Updated original artisan-gui package to work with Laravel 12 & PHP8.4
 >
 > Old version is still available at [infureal/artisan-gui](https://github.com/infureal/artisan-gui)
 
